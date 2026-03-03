@@ -18,7 +18,7 @@ Junior Web Developer and Software Developer based in Johannesburg, South Africa.
 
 ## 📫 Contact
 - Email: nomcebomtshali131@gmail.com
-- Portfolio: [nomcebom-dev.github.io](https://nomcebom-dev.github.io)
+- Portfolio: (https://nomcebom-dev.github.io)
 
 ## 🎓 Education
 Dip in Information Technology specialising in Software Development — Belgium Campus ITversity (2024–present)
